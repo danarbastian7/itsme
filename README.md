@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dnrdanar" target="blank"><img src="https://img.shields.io/twitter/follow/dnrdanar?logo=twitter&style=for-the-badge" alt="dnrdanar" /></a> </p>
 
-- 🔭 I’m currently looking working on **any field.**
+- 🔭 I’m currently looking for a working on **any field.**
 
 - 👨‍💻 All of my projects are available at [https://jcwd220204.purwadhikabootcamp.com/](https://jcwd220204.purwadhikabootcamp.com/)
 
